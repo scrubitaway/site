@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/scrubitaway/site/issues"
   },
-  "homepage": "https://github.com/scrubitaway/site#readme"
+  "homepage": "https://github.com/scrubitaway/site#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
